@@ -8,3 +8,6 @@ Learning Programming in the Mac Environment
 
 ## _exit() 不会执行标准 I/O 缓冲区的冲洗操作
 
+## Chapter-8 看到函数system
+## Chapter-10  开始看 10.14
+
